@@ -5996,33 +5996,5 @@ a.badge:hover {
 }
 
 .collaborators {
-  padding: 70px 100px 40px;
-  width: 100%;
-  *zoom: 1;
-}
-
-.collaborators:before,
-.collaborators:after {
-  display: table;
-  line-height: 0;
-  content: "";
-}
-
-.collaborators:after {
-  clear: both;
-}
-
-.collaborators .span3 {
-  width: 20.404255319148934%;
-  *width: 20.351063829787233%;
-}
-
-.collaborators .span2 {
-  width: 9.382978723404255%;
-  *width: 9.329787234042553%;
-}
-
-.collaborators .span1 {
-  width: 6.404255319148934%;
-  *width: 6.351063829787233%;
+  margin-top: 7em;
 }
