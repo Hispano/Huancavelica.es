@@ -12,28 +12,32 @@ body {
 }
 
 .navbar .nav {
-  margin: 0
+  margin: 0;
 }
 
  /* Customize the navbar links to be fill the entire space of the .navbar */
 .navbar .navbar-inner {
   padding: 0;
 }
+
 .navbar .nav li {
   display: table-cell;
   width: 1%;
   float: none;
 }
+
 .navbar .nav li a {
   font-weight: bold;
   text-align: center;
   border-left: 1px solid rgba(255,255,255,.75);
   border-right: 1px solid rgba(0,0,0,.1);
 }
+
 .navbar .nav li:first-child a {
   border-left: 0;
   border-radius: 3px 0 0 3px;
 }
+
 .navbar .nav li:last-child a {
   border-right: 0;
   border-radius: 0 3px 3px 0;
@@ -49,12 +53,12 @@ body {
   color: #fff;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
   background: url(/assets/img/jumbotron.jpg); 
-  }
+}
 
 .jumbotron h1 {
   font-size: 100px;
   line-height: 1;
-  }
+}
 
 .jumbotron .lead {
   font-size: 24px;
@@ -154,7 +158,6 @@ body {
   font-size: 12px;
   margin: 15px 0px;
 }
-
 
 .collaborators {
   margin-top: 7em;
