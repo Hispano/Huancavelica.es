@@ -5035,6 +5035,8 @@ input[type="submit"].btn.btn-mini {
 }
 
 .modal {
+  text-shadow: none;
+  color: #333333;
   position: fixed;
   top: 50%;
   left: 50%;
