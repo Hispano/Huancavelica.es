@@ -1,0 +1,23 @@
+@media (min-width: 1200px) {
+  .sidenav {
+    width: 258px;
+  }
+
+  .sidenav > li > a {
+    width: 230px \9;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+  .sidenav {
+    width: 166px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .sidenav {
+    width: auto;
+    margin-bottom: 20px;
+  }
+}
