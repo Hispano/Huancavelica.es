@@ -58,6 +58,7 @@ body {
 .jumbotron h1 {
   font-size: 100px;
   line-height: 1;
+  text-align: right;
 }
 
 .jumbotron .lead {
@@ -176,6 +177,12 @@ body {
 .row-fluid img {
   width: 15em;
   margin-left: 16%;
+}
+
+.logo_CI {
+  width: 11em;
+  float: right;
+  -webkit-transform: rotate(33deg) translate3d( 0, 0, 0);
 }
 
 /* Sidenav */
