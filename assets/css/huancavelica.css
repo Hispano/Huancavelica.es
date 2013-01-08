@@ -159,7 +159,12 @@ body {
 
 .green-checks li {
   margin-bottom: 7px;
+  padding-left: 30px;
   padding-top: 2px;
+  list-style: none;
+  background-image: url("/assets/img/green-tick.png");
+  background-repeat: no-repeat;
+  background-position: 0px 3px;
 }
 
 .small-text {
