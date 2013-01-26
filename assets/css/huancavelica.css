@@ -20,7 +20,7 @@ body {
   padding: 0;
 }
 
-.navbar .nav li { /* IMPORTANT: this code breaks the responsive nav-bar feature */
+.navbar .nav li { 
   display: table-cell;
   width: 1%;
   float: none;
