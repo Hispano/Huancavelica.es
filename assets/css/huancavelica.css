@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-image: url('/assets/img/jumbotron.jpg');
+  background-image: url('../img/jumbotron.jpg');
   position: relative;
   padding: 40px 0;
   margin-bottom: 35px;
@@ -133,7 +133,7 @@ header .btn {
   padding-left: 30px;
   padding-top: 2px;
   list-style: none;
-  background-image: url("/assets/img/green-tick.png");
+  background-image: url('../img/green-tick.png');
   background-repeat: no-repeat;
   background-position: 0px 3px;
 }
