@@ -6,9 +6,9 @@
     margin-right: 0;
   }
   .navbar .nav li{
-	display: block;
-	float: left;
-	width: 100%;  
+    display: block;
+    float: left;
+    width: 100%;
   }
 }
 
