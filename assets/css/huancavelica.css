@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 80%;
 }
 
 .container > hr {
@@ -19,11 +19,6 @@ header {
   color: #fff;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
   margin-top: -20px;
-}
-
-header h1 {
-  font-size: 100px;
-  line-height: 1;
 }
 
 header .lead {
