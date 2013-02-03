@@ -148,14 +148,17 @@ header .btn {
   color: #333333;
 }
 
-.center p,
-.center h2 {
+.center {
   text-align: center;
+}
+
+.center p {
+  text-align: justify;
 }
 
 .row-fluid img {
   width: 15em;
-  margin-left: 16%;
+
 }
 
 .logo_CI {
