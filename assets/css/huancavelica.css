@@ -89,6 +89,10 @@ header .btn {
   padding: 45px;
 }
 
+.tab-panel .tab-content .btn {
+  margin-left: 25px;
+}
+
 .tab-panel .tab-content .pull-right {
   margin-right: 20px;
 }
