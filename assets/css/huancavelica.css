@@ -156,7 +156,9 @@ header .btn {
   text-align: center;
 }
 
-.center p {
+.center p,
+.center .page-header,
+.center dl {
   text-align: justify;
 }
 
