@@ -34,9 +34,20 @@
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 500px) {
   header h1 {
     font-size: 50px;
     line-height: 1;
   }
+}
+
+@media (max-width: 760px){
+    .margin{
+        margin-top: -10%;
+    }
+}
+@media (max-width: 480px){
+    .margin{
+        margin-top: -20%;
+    }
 }
