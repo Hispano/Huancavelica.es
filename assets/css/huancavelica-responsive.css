@@ -41,13 +41,14 @@
   }
 }
 
-@media (max-width: 760px){
-    .margin{
-        margin-top: -10%;
-    }
+@media (max-width: 760px) {
+  .navbar {
+      margin-top: -10%;
+  }
 }
-@media (max-width: 480px){
-    .margin{
-        margin-top: -20%;
-    }
+
+@media (max-width: 480px) {
+  .navbar {
+      margin-top: -20%;
+  }
 }
