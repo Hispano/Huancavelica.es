@@ -258,6 +258,11 @@ header .btn {
   opacity: 1;
 }
 
+.bottom {
+  position: fixed;
+  margin-top: 300px;
+}
+
 .justify {
   text-align: justify;
 }
