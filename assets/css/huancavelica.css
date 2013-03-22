@@ -133,7 +133,7 @@ header .btn {
 }
 
 .tab-panel .tabbable .tab-content li {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   padding-top: 2px;
   font-size: 15px;
 }
@@ -169,7 +169,7 @@ header .btn {
 
 .center p,
 .center .page-header,
-.center dl {
+.center ul {
   text-align: justify;
 }
 
