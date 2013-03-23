@@ -21,6 +21,10 @@ header {
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
 }
 
+header h1 {
+  margin-left: 12%;
+}
+
 header .lead {
   font-size: 24px;
   line-height: 1.25;
@@ -34,6 +38,7 @@ header .btn {
 .tab-panel {
   margin-top: 60px;
 }
+
 .tab-panel .nav-tabs {
   padding: 35px 0px;
   margin-bottom: 0px;
@@ -168,7 +173,7 @@ header .btn {
 }
 
 .logo_CI {
-  width: 11em;
+  width: 13em;
   float: right;
   -webkit-transform: rotate(33deg) translate3d( 0, 0, 0);
      -moz-transform: rotate(33deg) translate3d( 0, 0, 0);
