@@ -272,3 +272,9 @@ header .btn {
 .footer .icon-envelope {
   margin-right: 0.3%;
 }
+
+.beta-banner {
+  float: left;
+  margin-top: -2.9%;
+  width: 10em;
+}
