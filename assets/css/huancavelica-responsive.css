@@ -42,19 +42,19 @@
 }
 
 @media (max-width: 981px) {
-   .navbar {
-     margin-top: -6%;
+   body {
+     padding-top: 0px;
    }
 }
 
 @media (max-width: 760px) {
-   .navbar {
-     margin-top: -10%;
-   }
+    body {
+      padding-top: 0px;
+    }
 }
 
 @media (max-width: 480px) {
-   .navbar {
-     margin-top: -15%;
-   }
+   body {
+      padding-top: 0px;
+    }
 }
