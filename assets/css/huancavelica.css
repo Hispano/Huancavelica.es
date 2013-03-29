@@ -261,10 +261,6 @@ header .btn {
   text-align: justify;
 }
 
-.text-center {
-  text-align: center;
-}
-
 .mapa1 {
   width: 10em;
 }
@@ -277,4 +273,8 @@ header .btn {
   float: left;
   margin-top: -2.9%;
   width: 10em;
+}
+
+a.margin-bottom {
+  margin-bottom: 10px;
 }
