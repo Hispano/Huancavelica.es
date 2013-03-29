@@ -256,6 +256,10 @@ header .lead {
   text-align: justify;
 }
 
+.justify .sidenav {
+  text-align: left;
+}
+
 .mapa1 {
   width: 10em;
 }
