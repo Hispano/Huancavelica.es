@@ -34,6 +34,10 @@ header .lead {
   line-height: 1.25;
 }
 
+header .dropdown-menu {
+  text-shadow: none;
+}
+
 .tab-panel {
   margin-top: 60px;
 }
