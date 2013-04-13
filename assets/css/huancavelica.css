@@ -264,6 +264,11 @@ header .dropdown-menu {
   margin-top: 300px;
 }
 
+.bottom-image {
+  margin-top: 420px;
+  margin-left: -10px;
+}
+
 .justify {
   text-align: justify;
 }
