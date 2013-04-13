@@ -15,6 +15,10 @@ body {
   color: #3a87ad;
 }
 
+.section-voluntarios {
+  padding-top: 30px;
+}
+
 header {
   background-image: url('../img/jumbotron.jpg');
   position: relative;
