@@ -11,6 +11,10 @@ body {
   margin: 60px 0;
 }
 
+.navbar .brand {
+  color: #3a87ad;
+}
+
 header {
   background-image: url('../img/jumbotron.jpg');
   position: relative;
