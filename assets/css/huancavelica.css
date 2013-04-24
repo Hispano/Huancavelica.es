@@ -3,10 +3,6 @@ body {
   padding-top: 60px;
 }
 
-.container {
-  max-width: 80%;
-}
-
 .container > hr {
   margin: 60px 0;
 }
@@ -23,7 +19,7 @@ header {
   background-image: url('../img/jumbotron.jpg');
   position: relative;
   padding: 40px 0;
-  margin-bottom: 35px;
+  margin-bottom: 27px;
   text-align: center;
   color: #fff;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
@@ -175,7 +171,7 @@ header .dropdown-menu {
 }
 
 .row-fluid img {
-  width: 19em;
+  width: 20em;
 
 }
 
