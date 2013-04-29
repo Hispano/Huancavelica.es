@@ -17,6 +17,7 @@ body {
 
 header {
   background-image: url('../img/jumbotron.jpg');
+  background-repeat: no-repeat;
   position: relative;
   padding: 40px 0;
   margin-bottom: 27px;
