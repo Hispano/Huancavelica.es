@@ -59,15 +59,12 @@ header .dropdown-menu {
   margin-bottom: 0px;
   margin-left: 20px;
   display: inline-block;
-  zoom: 1;
-  *display: inline;
   float: none;
   font-size: 18px;
 }
 
 .tab-panel .nav-tabs > li > a {
   color: #8f8f8f;
-  line-height: 18px;
 }
 
 .tab-panel .nav-tabs > li > a:hover {
@@ -282,7 +279,7 @@ header .dropdown-menu {
   margin-right: 0.3%;
 }
 
-.beta-banner {
+.logo-aniversario {
   float: left;
   margin-top: -2.9%;
   width: 10em;
