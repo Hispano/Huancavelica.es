@@ -1,0 +1,52 @@
+body{padding-bottom:40px;padding-top:60px;}
+.container > hr{margin:60px 0;}
+.navbar .brand{color:#3a87ad;}
+.section-voluntarios{padding-top:30px;}
+header{background-image:url('../img/jumbotron.jpg');background-repeat:no-repeat;position:relative;padding:40px 0;margin-bottom:27px;text-align:center;color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.4),0 0 30px rgba(0,0,0,.075);}
+header h1{margin-left:12%;}
+header .lead{font-size:24px;line-height:1.25;}
+header .dropdown-menu{text-shadow:none;}
+.tab-panel{margin-top:60px;}
+.tab-panel .nav-tabs{padding:35px 0px;margin-bottom:0px;text-align:center;-webkit-border-top-left-radius:inherit;-webkit-border-top-right-radius:inherit;-moz-border-radius-topleft:inherit;-moz-border-radius-topright:inherit;border-top-left-radius:inherit;border-top-right-radius:inherit;}
+.tab-panel .nav-tabs > li{margin-bottom:0px;margin-left:20px;display:inline-block;float:none;font-size:18px;}
+.tab-panel .nav-tabs > li > a{color:#8f8f8f;}
+.tab-panel .nav-tabs > li > a:hover{color:#005580;background-color:transparent;border-color:transparent;}
+.tab-panel .nav-tabs > .active > a,
+.tab-panel .nav-tabs > .active > a:hover{color:#0078cc;border:0;}
+.tab-panel .tabbable{border:1px solid #dadada;padding:0px;margin-bottom:40px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 1px 2px rgba(0,0,0,.075);-moz-box-shadow:0 1px 2px rgba(0,0,0,.075);box-shadow:0 1px 2px rgba(0,0,0,.075);}
+.tab-panel .tab-content{padding:45px;}
+.tab-panel .tab-content .btn{margin-left:25px;}
+.tab-panel .tab-content .pull-right{margin-right:20px;}
+.tab-panel .tab-content .img-tilt{border:2px solid #fff;-webkit-box-shadow:0px 0px 3px rgba(0,0,0,0.5);-moz-box-shadow:0px 0px 3px rgba(0,0,0,0.5);-o-box-shadow:0px 0px 3px rgba(0,0,0,0.5);box-shadow:0px 0px 3px rgba(0,0,0,0.5);-webkit-transform:rotate(1deg) translate3d( 0,0,0);-moz-transform:rotate(1deg) translate3d( 0,0,0);-o-transform:rotate(1deg) translate3d( 0,0,0);transform:rotate(1deg) translate3d( 0,0,0);}
+.tab-panel .tab-content .img-tilt-inverse{border:2px solid #fff;-webkit-box-shadow:0px 0px 3px rgba(0,0,0,0.5);-moz-box-shadow:0px 0px 3px rgba(0,0,0,0.5);-o-box-shadow:0px 0px 3px rgba(0,0,0,0.5);box-shadow:0px 0px 3px rgba(0,0,0,0.5);-webkit-transform:rotate(-1deg) translate3d( 0,0,0);-moz-transform:rotate(-1deg) translate3d( 0,0,0);-o-transform:rotate(-1deg) translate3d( 0,0,0);transform:rotate(-1deg) translate3d( 0,0,0);}
+.tab-panel .tabbable .tab-content li{margin-bottom:5px;padding-top:2px;font-size:15px;}
+.green-checks li{margin-bottom:7px;padding-left:30px;padding-top:2px;list-style:none;background-image:url('../img/green-tick.png');background-repeat:no-repeat;background-position:0px 3px;}
+.small-text{color:#ccc;font-size:12px;margin:15px 0px;}
+.collaborators{margin-top:7em;}
+.modal{text-shadow:none;color:#333333;}
+.center{text-align:center;}
+.center p,
+.center .page-header,
+.center ul{text-align:justify;}
+.row-fluid img{width:20em;}
+.logo_CI{width:13em;float:right;-webkit-transform:rotate(33deg) translate3d( 0,0,0);-moz-transform:rotate(33deg) translate3d( 0,0,0);-o-transform:rotate(33deg) translate3d( 0,0,0);transform:rotate(33deg) translate3d( 0,0,0);}
+/* Sidenav */
+.sidenav{width:250px;margin:30px 0 0;padding:0;background-color:#fff;-webkit-border-radius:6px;-moz-border-radius:6px;-o-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 1px 4px rgba(0,0,0,.065);-moz-box-shadow:0 1px 4px rgba(0,0,0,.065);-o-box-shadow:0 1px 4px rgba(0,0,0,.065);box-shadow:0 1px 4px rgba(0,0,0,.065);}
+.sidenav > li > a{display:block;width:190px \9;margin:0 0 -1px;padding:8px 14px;border:1px solid #e5e5e5;}
+.sidenav > li:first-child > a{-webkit-border-radius:6px 6px 0 0;-moz-border-radius:6px 6px 0 0;-o-border-radius:6px 6px 0 0;border-radius:6px 6px 0 0;}
+.sidenav > li:last-child > a{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;-o-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
+.sidenav > .active > a{position:relative;z-index:2;padding:9px 15px;border:0;text-shadow:0 1px 0 rgba(0,0,0,.15);-webkit-box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);-moz-box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);-o-box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);}
+/* Chevrons in sidenav */
+.sidenav .icon-chevron-right{float:right;margin-top:2px;margin-right:-6px;opacity:.25;}
+.sidenav > li > a:hover{background-color:#f5f5f5;}
+.sidenav a:hover .icon-chevron-right{opacity:.5;}
+.sidenav .active .icon-chevron-right,
+.sidenav .active a:hover .icon-chevron-right{opacity:1;}
+.bottom{position:fixed;margin-top:300px;}
+.bottom-image{margin-top:420px;margin-left:-10px;}
+.justify{text-align:justify;}
+.justify .sidenav{text-align:left;}
+.mapa1{width:10em;}
+.footer .icon-envelope{margin-right:0.3%;}
+.logo-aniversario{float:left;margin-top:-2.9%;width:10em;}
+a.margin-bottom{margin-bottom:10px;}
