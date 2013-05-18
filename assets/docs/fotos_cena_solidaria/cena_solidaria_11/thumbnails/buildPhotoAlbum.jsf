@@ -1,0 +1,620 @@
+App.progressCountTotal = 77;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9220.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'IMG_9220.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9220a.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'IMG_9220a.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220a_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220a_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220a_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220a_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220a_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220a_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9220b.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'IMG_9220b.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220b_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220b_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220b_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220b_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220b_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220b_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9220c.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'IMG_9220c.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220c_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220c_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9220c_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220c_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220c_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9220c_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9221.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'IMG_9221.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9221_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9221_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9221_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9221_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9221_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9221_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9228.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'IMG_9228.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9228_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9228_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9228_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9228_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9228_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9228_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9231.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'IMG_9231.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9231_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9231_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9231_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9231_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9231_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9231_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9234.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'IMG_9234.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9234_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9234_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9234_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9234_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9234_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9234_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9238.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'IMG_9238.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9238_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9238_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9238_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9238_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9238_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9238_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9239.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'IMG_9239.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9239_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9239_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9239_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9239_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9239_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9239_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9240.JPG');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'IMG_9240.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9240_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9240_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9240_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9240_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9240_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9240_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9243.JPG');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'IMG_9243.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9243_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9243_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9243_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9243_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9243_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9243_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9244.JPG');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'IMG_9244.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9244_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9244_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9244_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9244_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9244_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9244_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9247.JPG');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'IMG_9247.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9247_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9247_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9247_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9247_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9247_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9247_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9249.JPG');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'IMG_9249.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9249_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9249_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9249_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9249_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9249_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9249_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9250.JPG');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'IMG_9250.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9250_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9250_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9250_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9250_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9250_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9250_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9257.JPG');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'IMG_9257.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9257_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9257_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9257_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9257_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9257_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9257_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9261.JPG');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'IMG_9261.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9261_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9261_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9261_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9261_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9261_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9261_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9268.JPG');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'IMG_9268.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9268_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9268_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9268_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9268_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9268_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9268_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9269.JPG');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'IMG_9269.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9269_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9269_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9269_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9269_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9269_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9269_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9270.JPG');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'IMG_9270.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9270_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9270_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9270_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9270_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9270_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9270_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9272.JPG');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'IMG_9272.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9272_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9272_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9272_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9272_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9272_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9272_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9273.JPG');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'IMG_9273.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9273_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9273_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9273_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9273_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9273_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9273_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9274.JPG');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'IMG_9274.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9274_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9274_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9274_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9274_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9274_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9274_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9277.JPG');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'IMG_9277.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9277_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9277_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9277_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9277_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9277_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9277_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9279.JPG');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'IMG_9279.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9279_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9279_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9279_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9279_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9279_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9279_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9284.JPG');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'IMG_9284.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9284_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9284_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9284_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9284_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9284_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9284_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9286.JPG');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'IMG_9286.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9286_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9286_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9286_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9286_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9286_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9286_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9289.JPG');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'IMG_9289.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9289_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9289_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9289_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9289_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9289_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9289_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9290.JPG');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'IMG_9290.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9290_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9290_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9290_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9290_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9290_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9290_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9291.JPG');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'IMG_9291.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9291_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9291_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9291_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9291_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9291_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9291_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9293.JPG');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'IMG_9293.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9293_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9293_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9293_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9293_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9293_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9293_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9295.JPG');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'IMG_9295.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9295_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9295_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9295_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9295_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9295_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9295_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9296.JPG');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'IMG_9296.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9296_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9296_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9296_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9296_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9296_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9296_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9298.JPG');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'IMG_9298.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9298_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9298_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9298_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9298_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9298_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9298_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9301.JPG');
+App.progressCountCurrent = 36;
+App.batchStatusString = 'IMG_9301.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9301_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9301_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9301_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9301_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9301_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9301_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9302.JPG');
+App.progressCountCurrent = 37;
+App.batchStatusString = 'IMG_9302.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9302_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9302_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9302_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9302_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9302_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9302_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9305.JPG');
+App.progressCountCurrent = 38;
+App.batchStatusString = 'IMG_9305.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9305_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9305_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9305_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9305_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9305_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9305_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9308.JPG');
+App.progressCountCurrent = 39;
+App.batchStatusString = 'IMG_9308.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9308_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9308_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9308_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9308_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9308_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9308_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9311.JPG');
+App.progressCountCurrent = 40;
+App.batchStatusString = 'IMG_9311.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9311_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9311_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9311_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9311_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9311_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9311_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9314.JPG');
+App.progressCountCurrent = 41;
+App.batchStatusString = 'IMG_9314.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9314_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9314_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9314_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9314_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9314_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9314_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9317.JPG');
+App.progressCountCurrent = 42;
+App.batchStatusString = 'IMG_9317.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9317_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9317_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9317_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9317_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9317_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9317_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9320.JPG');
+App.progressCountCurrent = 43;
+App.batchStatusString = 'IMG_9320.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9320_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9320_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9320_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9320_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9320_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9320_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9321.JPG');
+App.progressCountCurrent = 44;
+App.batchStatusString = 'IMG_9321.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9321_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9321_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9321_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9321_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9321_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9321_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9322.JPG');
+App.progressCountCurrent = 45;
+App.batchStatusString = 'IMG_9322.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9322_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9322_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9322_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9322_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9322_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9322_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9326.JPG');
+App.progressCountCurrent = 46;
+App.batchStatusString = 'IMG_9326.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9326_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9326_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9326_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9326_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9326_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9326_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9329.JPG');
+App.progressCountCurrent = 47;
+App.batchStatusString = 'IMG_9329.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9329_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9329_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9329_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9329_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9329_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9329_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9330.JPG');
+App.progressCountCurrent = 48;
+App.batchStatusString = 'IMG_9330.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9330_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9330_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9330_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9330_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9330_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9330_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9333.JPG');
+App.progressCountCurrent = 49;
+App.batchStatusString = 'IMG_9333.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9333_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9333_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9333_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9333_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9333_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9333_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9335.JPG');
+App.progressCountCurrent = 50;
+App.batchStatusString = 'IMG_9335.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9335_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9335_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9335_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9335_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9335_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9335_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9339.JPG');
+App.progressCountCurrent = 51;
+App.batchStatusString = 'IMG_9339.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9339_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9339_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9339_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9339_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9339_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9339_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9340.JPG');
+App.progressCountCurrent = 52;
+App.batchStatusString = 'IMG_9340.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9340_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9340_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9340_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9340_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9340_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9340_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9343.JPG');
+App.progressCountCurrent = 53;
+App.batchStatusString = 'IMG_9343.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9343_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9343_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9343_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9343_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9343_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9343_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9346.JPG');
+App.progressCountCurrent = 54;
+App.batchStatusString = 'IMG_9346.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9346_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9346_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9346_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9346_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9346_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9346_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9347.JPG');
+App.progressCountCurrent = 55;
+App.batchStatusString = 'IMG_9347.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9347_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9347_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9347_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9347_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9347_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9347_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9348.JPG');
+App.progressCountCurrent = 56;
+App.batchStatusString = 'IMG_9348.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9348_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9348_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9348_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9348_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9348_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9348_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9349.JPG');
+App.progressCountCurrent = 57;
+App.batchStatusString = 'IMG_9349.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9349_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9349_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9349_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9349_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9349_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9349_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9352.JPG');
+App.progressCountCurrent = 58;
+App.batchStatusString = 'IMG_9352.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9352_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9352_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9352_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9352_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9352_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9352_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9356.JPG');
+App.progressCountCurrent = 59;
+App.batchStatusString = 'IMG_9356.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9356_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9356_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9356_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9356_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9356_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9356_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9358.JPG');
+App.progressCountCurrent = 60;
+App.batchStatusString = 'IMG_9358.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9358_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9358_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9358_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9358_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9358_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9358_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9360.JPG');
+App.progressCountCurrent = 61;
+App.batchStatusString = 'IMG_9360.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9360_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9360_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9360_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9360_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9360_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9360_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9363.JPG');
+App.progressCountCurrent = 62;
+App.batchStatusString = 'IMG_9363.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9363_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9363_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9363_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9363_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9363_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9363_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9365.JPG');
+App.progressCountCurrent = 63;
+App.batchStatusString = 'IMG_9365.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9365_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9365_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9365_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9365_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9365_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9365_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9367.JPG');
+App.progressCountCurrent = 64;
+App.batchStatusString = 'IMG_9367.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9367_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9367_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9367_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9367_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9367_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9367_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9369.JPG');
+App.progressCountCurrent = 65;
+App.batchStatusString = 'IMG_9369.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9369_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9369_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9369_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9369_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9369_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9369_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9375.JPG');
+App.progressCountCurrent = 66;
+App.batchStatusString = 'IMG_9375.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9375_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9375_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9375_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9375_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9375_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9375_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9376.JPG');
+App.progressCountCurrent = 67;
+App.batchStatusString = 'IMG_9376.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9376_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9376_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9376_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9376_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9376_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9376_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9379.JPG');
+App.progressCountCurrent = 68;
+App.batchStatusString = 'IMG_9379.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9379_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9379_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9379_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9379_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9379_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9379_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9381.JPG');
+App.progressCountCurrent = 69;
+App.batchStatusString = 'IMG_9381.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9381_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9381_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9381_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9381_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9381_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9381_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9385.JPG');
+App.progressCountCurrent = 70;
+App.batchStatusString = 'IMG_9385.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9385_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9385_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9385_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9385_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9385_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9385_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9389.JPG');
+App.progressCountCurrent = 71;
+App.batchStatusString = 'IMG_9389.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9389_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9389_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9389_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9389_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9389_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9389_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9391.JPG');
+App.progressCountCurrent = 72;
+App.batchStatusString = 'IMG_9391.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9391_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9391_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9391_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9391_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9391_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9391_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9394.JPG');
+App.progressCountCurrent = 73;
+App.batchStatusString = 'IMG_9394.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9394_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9394_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9394_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9394_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9394_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9394_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9398.JPG');
+App.progressCountCurrent = 74;
+App.batchStatusString = 'IMG_9398.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9398_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9398_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9398_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9398_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9398_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9398_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9400.JPG');
+App.progressCountCurrent = 75;
+App.batchStatusString = 'IMG_9400.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9400_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9400_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9400_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9400_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9400_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9400_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9402.JPG');
+App.progressCountCurrent = 76;
+App.batchStatusString = 'IMG_9402.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9402_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9402_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9402_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9402_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9402_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9402_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/cena_solidaria_11/IMG_9403.JPG');
+App.progressCountCurrent = 77;
+App.batchStatusString = 'IMG_9403.JPG';
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9403_JPG.jpg') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9403_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/images/IMG_9403_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9403_JPG.gif') || confirm('file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9403_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Users/Gabriel/Gabriel/15 WEB HUANCAVELICA/fotos_cena_solidaria/thumbnails/IMG_9403_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+'done';
