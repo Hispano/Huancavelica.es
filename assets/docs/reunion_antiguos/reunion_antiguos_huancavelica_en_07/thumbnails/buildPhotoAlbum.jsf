@@ -1,0 +1,92 @@
+App.progressCountTotal = 11;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4374.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'IMG_4374.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4374_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4374_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4374_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4374_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4374_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4374_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4375.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'IMG_4375.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4375_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4375_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4375_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4375_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4375_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4375_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4376.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'IMG_4376.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4376_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4376_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4376_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4376_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4376_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4376_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4377.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'IMG_4377.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4377_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4377_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4377_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4377_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4377_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4377_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4378.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'IMG_4378.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4378_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4378_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4378_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4378_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4378_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4378_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4379.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'IMG_4379.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4379_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4379_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4379_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4379_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4379_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4379_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4381.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'IMG_4381.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4381_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4381_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4381_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4381_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4381_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4381_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4382.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'IMG_4382.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4382_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4382_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4382_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4382_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4382_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4382_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4391.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'IMG_4391.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4391_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4391_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4391_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4391_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4391_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4391_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/IMG_4392.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'IMG_4392.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4392_JPG.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4392_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/IMG_4392_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4392_JPG.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4392_JPG.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/IMG_4392_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/panoramica_tertulia.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'panoramica_tertulia.jpg';
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/panoramica_tertulia_jpg.jpg') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/panoramica_tertulia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/images/panoramica_tertulia_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/panoramica_tertulia_jpg.gif') || confirm('file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/panoramica_tertulia_jpg.gif ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/GMS/Escritorio/web huancavelica/reunion_huancavelica_07/thumbnails/panoramica_tertulia_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 128", numEntriesRequested:128, percentScale:100, useScale:false, xSize:-72, ySize:-72}));
+fw.closeDocument(doc);
+'done';
